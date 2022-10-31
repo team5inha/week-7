@@ -1,6 +1,6 @@
 # Developing Modules
 ```bash
-From the week 7 we are focusing on developing the modules of drone mainly animation.py which is a reader that skisps empty rows , client_core.py which helps us for messaging and updated API docs for client_core and last but not least flight.py that's essential for increasing the default take off speed. 
+From the week 7 we are focusing on developing the modules of drone mainly [animation.py](https://github.com/team5inha/week-7/blob/main/animation%20module.py) which is a reader that skisps empty rows , client_core.py which helps us for messaging and updated API docs for client_core and last but not least flight.py that's essential for increasing the default take off speed. 
 ```
 # Recorded video of testing the drone
 
